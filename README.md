@@ -14,7 +14,7 @@ con el paso de tiempo se crean más espacios que promueven la relación entre
 grupos especificos. Creamos e interactuamos en ellas por que como humanos 
 necesitamos de otros para forjar nuestro camino. 
 
-![imagen de un grupo social avanzando jutno]('./scr/img/familia.jpg)
+![imagen de un grupo social avanzando juntos]('../scr/img/familia.jpg)
 
 
 ## 2. Resumen del proyecto
